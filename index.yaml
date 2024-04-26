@@ -3,7 +3,17 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-26T11:50:28.388920737Z"
+    created: "2024-04-26T13:50:03.36930323Z"
+    description: A Helm chart for Kubernetes
+    digest: 3b883fb192558bffbaf380cc6a7c7d37157b8df0180c27389e37820090c3ca77
+    name: nginx
+    type: application
+    urls:
+    - packages/nginx-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-26T13:50:03.368671675Z"
     description: A Helm chart for Kubernetes
     digest: 484ff2f4064f6cdecec9f6ddc599aa6c619c6b1b865732da3d25e6d3deae7757
     name: nginx
@@ -13,7 +23,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-26T11:50:28.388303658Z"
+    created: "2024-04-26T13:50:03.367989439Z"
     description: A Helm chart for Kubernetes
     digest: 3d614a90119f0ff69cfccc872c59c69d7b56aef7149c0a23e00b9a0e9aa70926
     name: nginx
@@ -23,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-26T11:50:28.387565765Z"
+    created: "2024-04-26T13:50:03.366756441Z"
     description: A Helm chart for Kubernetes
     digest: 144b0494dc13da4c3a8750cdd131809d3222eef5dbec8d73f1adc81cf7717a22
     name: nginx
@@ -33,7 +43,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-26T11:50:28.386899866Z"
+    created: "2024-04-26T13:50:03.365502275Z"
     description: A Helm chart for Kubernetes
     digest: eecc2e219f44e354001f91fd6a71f0c78bd0d768a60d08c32c02a47bf76193d9
     name: nginx
@@ -41,4 +51,4 @@ entries:
     urls:
     - packages/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-26T11:50:28.386082912Z"
+generated: "2024-04-26T13:50:03.363892543Z"
